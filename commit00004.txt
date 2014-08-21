@@ -1,0 +1,1 @@
+Some alterations to model classes. Added Plan, Plan List classes and newcouple XHTML
