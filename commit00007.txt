@@ -1,0 +1,1 @@
+Alter AccountController for Signup page. Update 'description' fields to 'about' in bride and bridegroom model classes
