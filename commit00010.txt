@@ -1,0 +1,1 @@
+Add GuestListController, Alterations to Guest XHTML pages. Note: Primefaces' P:datatable does not seem to properly find objects through the var specified
