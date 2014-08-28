@@ -1,0 +1,1 @@
+Single out Payment/Price Table from newaccount XHTML. Potentially add chooseplan XHTML
