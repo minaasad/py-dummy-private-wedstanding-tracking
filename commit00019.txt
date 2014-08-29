@@ -1,0 +1,1 @@
+Fix typo in Bride.java, Fix AccountController and newcouple XHTML. Signup page now functional
