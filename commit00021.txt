@@ -1,0 +1,1 @@
+Signup/Login implementation complete. NOTE: Only encode password (hash256) when inserting it into the database table 'account'. Create select db sql file. Minor alterations to AccountController.
