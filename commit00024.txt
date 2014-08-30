@@ -1,0 +1,1 @@
+Check request user principal and automatically log out when logging in while authenticated
