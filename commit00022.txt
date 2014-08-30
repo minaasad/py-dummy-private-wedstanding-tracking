@@ -1,0 +1,1 @@
+Add error XHTML page and login page Growl/Messages primeface component for showing errors if login failed
