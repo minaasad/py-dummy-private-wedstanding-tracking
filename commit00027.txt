@@ -1,0 +1,1 @@
+Alterations to GuestController. Code shortened. On creating guests, now valid account id is passed instead of static ones.
