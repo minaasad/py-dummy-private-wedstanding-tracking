@@ -1,0 +1,1 @@
+Add invitation_code property to Guest in Class, DB, and Controller. Remove second rsvp page and use same-page p:messages instead. rsvp XHTML page implemented. NOTE: check why faces context messages aren't performing.
