@@ -1,0 +1,1 @@
+Fix 'update' issue in GuestDAO. Minor polishing.
