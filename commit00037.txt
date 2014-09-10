@@ -1,0 +1,1 @@
+Fix limit on password in account sql table to accomodate for Hash-256 long encoding
