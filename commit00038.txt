@@ -1,0 +1,1 @@
+Implement @Resource annotation, add general DAO class to be extended
