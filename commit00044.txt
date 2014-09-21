@@ -1,0 +1,1 @@
+Implement admin roles AccountList (Index) XHTML and View/Edit XHTML pages. Alterations in accountController and JavaDBAccountDAO and AccountDAO respectively
