@@ -1,0 +1,1 @@
+Add new Bootsfaces library. Initial use with GuestList DataTable. Add Customers and Admins Roles in web and sun config files
