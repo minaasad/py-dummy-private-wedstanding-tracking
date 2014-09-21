@@ -1,0 +1,1 @@
+Apply UI Template changes UI:Inserts and UI:Includes. Organise files in layout_ and content_ folders. Design changes. BMC PDF changes. New goal set.
