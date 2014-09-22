@@ -1,0 +1,1 @@
+Implement Payment and Subscription DAOs, XHTML pages and controllers. Alterations to DB design.
