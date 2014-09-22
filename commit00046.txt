@@ -1,0 +1,1 @@
+Support unsecured pages with Templates as well
