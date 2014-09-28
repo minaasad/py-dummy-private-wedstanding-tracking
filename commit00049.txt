@@ -1,0 +1,1 @@
+Added viewaccount XHTML. Subscription plans now applied on accounts. Design alterations. SubscriptionDAO improvements.
