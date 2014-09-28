@@ -1,0 +1,1 @@
+Implement Session Bean Alterations on Account, Timestamp instead of DATE for details, ExirationDate automation
