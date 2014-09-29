@@ -1,0 +1,1 @@
+Solve @Resource annotation issues with ds pooling. Alterations to DAOs and AccountController. CDI Implementation successful
