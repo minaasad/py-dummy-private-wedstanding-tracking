@@ -1,0 +1,1 @@
+Final commit before EJB EE Project. Please see 'WedstandingEE' project
